@@ -41,7 +41,7 @@ folder are reported but not blocked.
 ## Usage
 
 1. Clone or download this repo.
-2. Open the script (`netblock.bat`) and edit the folder path at the top: FOLDER_PATH = r"C:\Path\To\Your\Folder", then save the changes.
+2. Open the script (`netblock.bat`) and edit the folder path at the top: `set "FolderPath=C:\`, then save the changes.
 3. Assign a name for rules in line 38. replace `NAME` with a desired name.
 4. Save the changes you made.
 5. Run it **as Administrator**
