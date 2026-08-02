@@ -1,5 +1,5 @@
 REM 1. Add the software path in line 10
-REM 2. Change the rule name in line 39
+REM 2. Change the rule name in line 38
 REM 3. Run as Admin
 
 
